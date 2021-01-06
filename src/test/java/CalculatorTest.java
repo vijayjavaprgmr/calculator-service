@@ -1,11 +1,10 @@
 import static org.hamcrest.MatcherAssert.assertThat;
+import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.is;
 
 import org.junit.Test;
 
 import com.bnpp.kata.Calculator;
-
-import static org.hamcrest.Matchers.equalTo;
 
 public class CalculatorTest {
 
